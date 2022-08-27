@@ -1,2 +1,2 @@
 # SENAC-PWA107-1142519125-LucasR
-Programação Web ADO01 
+Repositório destinado para a entrega de atividades da matéria de Programação Web(PW)
