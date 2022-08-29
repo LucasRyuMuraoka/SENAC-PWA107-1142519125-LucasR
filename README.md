@@ -15,7 +15,7 @@
     </div>  
     <hr>
     <div>
-        <h6 align="center">Informações:</h6>
+        <h5 align="center">Informações:</h5>
         <p>
             Aluno: Lucas Ryu Muraoka<br>
             Colaborador: Matheus F. Santos <a  href="https://github.com/Matheus-FSantos" target="_blank">(Repositório)</a><br>
