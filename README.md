@@ -12,5 +12,20 @@
         <p>
             Repositório destinado para as entregas de atividades da materia de Programação Web(PWA-107) do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário <a href="https://www.sp.senac.br/" target="_blank">SENAC-SP</a>
         </p>
+    </div>  
+    <hr>
+    <div>
+        <h6 align="center">Informações:</h6>
+        <p>
+            Aluno: Lucas Ryu Muraoka<br>
+            Colaborador: Matheus F. Santos <a  href="https://github.com/Matheus-FSantos" target="_blank">(Repositório)</a><br>
+            Professor: Carlos Henrique Veríssimo Pereira <a href="https://github.com/ProfCarlosVerissimo" target="_blank">(Repositório)</a>
+        </p>
     </div>
+    <hr>
+    <section align="center">
+        <a href="https://www.sp.senac.br/" target="_blank">
+          <img alt="Matheus-SENAC" height="45" width="70" src="https://logodownload.org/wp-content/uploads/2014/10/senac-logo-4.png">
+        </a>
+      </section>
 </html>
