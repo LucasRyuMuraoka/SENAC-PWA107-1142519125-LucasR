@@ -18,7 +18,7 @@
         <h5 align="center">Informações:</h5>
         <p>
             Aluno: Lucas Ryu Muraoka<br>
-            Colaborador: Matheus F. Santos <a  href="https://github.com/Matheus-FSantos" target="_blank">(Repositório)</a><br>
+            Colaborador: Matheus Ferreira Santos <a  href="https://github.com/Matheus-FSantos" target="_blank">(Repositório)</a><br>
             Professor: Carlos Henrique Veríssimo Pereira <a href="https://github.com/ProfCarlosVerissimo" target="_blank">(Repositório)</a>
         </p>
     </div>
