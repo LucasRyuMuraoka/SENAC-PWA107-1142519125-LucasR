@@ -20,7 +20,7 @@ function Sobre(){
             </div>
             <hr/>
             <div>
-                <p>ADO01 da máteria Programação WEB do curso Análise e desenvolvimento de Sistemas do campos SENAC - St Amaro</p>
+                <p>ADO02 da máteria Programação WEB do curso Análise e desenvolvimento de Sistemas do campos SENAC - St Amaro</p>
                 <p>Atividade desenvolvida para estudar sobre JSX e o uso do useState em aplicações Web</p>
                 <hr/>
                 <h3 align="center">Créditos:</h3>
