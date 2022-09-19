@@ -10,7 +10,7 @@
     </header>
     <div>
         <p>
-            Espaço destinado para a entrega da segunda ADO (atividade avaliativa) da matéria de Programação Web do 2º semestre do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário <a href="https://www.sp.senac.br/">SENAC</a> - São Paulo, essa ADO serve para ajudar a entender melhor como funciona uma estrutura JSX, que nada mais é que uma extensão de React para JavaScript, e para utilizar também o hook UseState
+            Espaço destinado para a entrega da segunda ADO (atividade avaliativa) da matéria de Programação Web do 2º semestre do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário <a href="https://www.sp.senac.br/">SENAC</a> - São Paulo. Essa ADO serve para ajudar a entender melhor como funciona uma estrutura JSX, que nada mais é que uma extensão de React para JavaScript, e para utilizar também o hook UseState
         </p>
     </div>  
     <hr>
