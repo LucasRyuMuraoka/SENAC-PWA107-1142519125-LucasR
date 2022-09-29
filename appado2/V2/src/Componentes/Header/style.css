@@ -1,0 +1,57 @@
+header{
+    font-family: Verdana, Tahoma;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    transition-duration: 1s;
+    transition-property: all;  
+}
+
+.link_cabecalho{
+    text-decoration: none;
+    color: white;
+}
+
+.titulo_cabecalho{
+    padding: 0px 10px 0px 10px;
+}
+
+header div .link_cabecalho + .link_cabecalho{
+    margin-left: 10px;
+    padding: 0px 10px 0px 15px;
+    margin-right: 10px;
+}
+
+header:hover{
+    border-radius: 10px;
+    transition-timing-function: ease;
+    background: rgba(16, 13, 194, 0.76);
+    transition-delay: 0s;
+}
+
+a:hover{
+    color: gray;
+}
+
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+  
+  }
+  
+  body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+  }
+
+  label {
+    width: 70px;
+    display: inline-block;
+}
